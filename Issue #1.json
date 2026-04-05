@@ -1,1 +1,26 @@
-
+{
+  "En": {
+    "Name": "First Release",
+    "Description": "Welcome to Localization Tools! This is the second version of the application.",
+    "Fix":"",
+    "Date":"30.6.2026"
+  },
+  "De": {
+    "Name": "Erste Version",
+    "Description": "Willkommen bei den Lokalisierungstools! Dies ist die zweite Version der Anwendung.",
+    "Fix": "",
+    "Date":"30.6.2026"
+  },
+  "Cz": {
+    "Name": "První verze",
+    "Description": "Vítejte v Localization Tools! Toto je druhá verze aplikace.",
+    "Fix":"",
+    "Date":"30.6.2026"
+  },
+  "Sl": {
+    "Name": "Prva različica",
+    "Description": "Vitajte v Localization Tools! Toto je druhá verzia aplikácie.",
+    "Fix":"",
+    "Date":"30.6.2026"
+  }
+}
